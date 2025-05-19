@@ -1,1 +1,30 @@
-# Monedas_Start_SeuNome
+1) Cadastro Clientes/Usuários
+2) Verificar se os dados colocados estão corretos
+3) Validar os dados
+4) Mostrar informações bancárias do cliente ao mesmo
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+13)
+14)
+15)
+16)
+17)
+18)
+19)
+20)
+21)
+22)
+23)
+24)
+25)
+26)
+27)
+28)
+29)
+30)
