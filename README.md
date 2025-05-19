@@ -12,24 +12,25 @@
 12) Validar o pix;
 13) Torná-lo utilizável pelo usuário;
 14) Automatizar o processo de transferência tanto de investimentos, a contas, etc;
-15) Mostrar histórico de transferência/pagamento do usuário de forma atualizada;
-16) Mostrar o nome e algumas informações não sensíveis do usuário/empresa que a transferência foi realizada;
-17) Facilitar a realização de investimentos pelo usuário;
-18) Permitir a análise de mercado com base em dados atualizados recorrentemente;
-19) Facilitar a compra de criptomoedas;
-20) Permitir a análise do mercado de criptos com base em dados atualizados de forma recorrente;
-21) Auxilar na criação e gestão de cartões de crédito e débito;
-22) Integrar os cartões no banco de dados da empresa;
-23) Validar as informações de cartão;
-24) Permitir a realização de transferências com esse cartão;
-25) Permitir e auxiliar na visualização de seguradoras que podem ser contratados pelo cliente;
-26) 
-27)
-28)
-29)
-30)
-31)
-32)
-33)
+15) Permitir a realização de empréstimos e financiamentos pelo aplicativo;
+16) Auxilar na criação e gestão de cartões de crédito e débito;
+17) Integrar os cartões no banco de dados da empresa;
+18) Validar as informações de cartão;
+19) Permitir a realização de transferências com esse cartão;
+20) Mostrar histórico de transferência/pagamento do usuário de forma atualizada;
+21) Mostrar o nome e algumas informações não sensíveis do usuário/empresa que a transferência foi realizada;
+22) Facilitar a realização de investimentos pelo usuário;
+23) Permitir a análise de mercado com base em dados atualizados recorrentemente;
+24) Facilitar a compra de criptomoedas;
+25) Permitir a análise do mercado de criptos com base em dados atualizados de forma recorrente;
+26) Permitir e auxiliar na visualização de seguradoras que podem ser contratados pelo cliente;
+27) 
+28) 
+29) 
+30) 
 34)
 35)
+36)
+37)
+38)
+39)
