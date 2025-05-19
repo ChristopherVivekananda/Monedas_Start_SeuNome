@@ -5,10 +5,10 @@
 5) Carregar dados bancários e informações atualizadas de usuário para o cliente em sua tela principal;
 6) Carregar informações do Usuário na tela, como seu nome, sua foto, etc;
 7) Mostrar saldo atualizado da conta bancária;
-8) 
-9)
-10)
-11)
+8) Cadastro de chave pix do usuário;
+9) Validar o pix;
+10) 
+11) Mostrar histórico de transferência/pagamento do usuário;
 12)
 13)
 14)
