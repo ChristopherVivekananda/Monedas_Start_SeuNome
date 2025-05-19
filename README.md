@@ -24,8 +24,8 @@
 24) Facilitar a compra de criptomoedas;
 25) Permitir a análise do mercado de criptos com base em dados atualizados de forma recorrente;
 26) Permitir e auxiliar na visualização de seguradoras que podem ser contratados pelo cliente;
-27) 
-28) 
+27) Criar e auxiliar no gerenciamento de E-mails mandados para o usuários com o foco em transferências realizadas para a validação e confirmação delas;
+28) Criação de um sistema de autenticação de dois fatores para segurança;
 29) 
 30) 
 34)
