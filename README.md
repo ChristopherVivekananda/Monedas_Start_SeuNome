@@ -26,5 +26,5 @@
 26) Permitir e auxiliar na visualização de seguradoras que podem ser contratados pelo cliente;
 27) Criar e auxiliar no gerenciamento de E-mails mandados para o usuários com o foco em transferências realizadas para a validação e confirmação delas;
 28) Criação de um sistema de autenticação de dois fatores para segurança;
-29) 
-30) 
+29) Criação de um sistema baseado análise de comportamento do usuário para identificar fraudes ou atividades suspeitas
+30) Criar painel de suporte ou chat com atendimento virtual e histórico de conversas
