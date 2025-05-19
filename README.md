@@ -21,9 +21,9 @@
 21) Auxilar na criação e gestão de cartões de crédito e débito;
 22) Integrar os cartões no banco de dados da empresa;
 23) Validar as informações de cartão;
-24) 
-25)
-26)
+24) Permitir a realização de transferências com esse cartão;
+25) Permitir e auxiliar na visualização de seguradoras que podem ser contratados pelo cliente;
+26) 
 27)
 28)
 29)
@@ -32,3 +32,4 @@
 32)
 33)
 34)
+35)
